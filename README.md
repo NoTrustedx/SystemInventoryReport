@@ -58,5 +58,3 @@ Erick O.
 ## 📄 Licencia
 
 Este script se distribuye bajo la **Licencia MIT**, lo que permite su uso, modificación y distribución libre.
-
-```
